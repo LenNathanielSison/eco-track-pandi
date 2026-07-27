@@ -148,7 +148,12 @@ Model accuracy was validated using three standard performance metrics, comparing
 ---
 
 ## Authors
-Alvarez, David · Bello, Jem Creydel · Dela Peña, Edrian · Gabriel, Justine Rey · San Jose, Irish L. · Sison, Len Nathaniel
+- Alvarez, David
+- Bello, Jem Creydel
+- Dela Peña, Edrian
+- Gabriel, Justine Rey
+- San Jose, Irish
+- Sison, Len Nathaniel
 
 **Adviser:** Dr. Jayson M. Victoriano
 
