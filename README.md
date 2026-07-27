@@ -104,7 +104,7 @@ Model accuracy was validated using three standard performance metrics, comparing
 - Biodegradable and recyclable waste make up the largest portion of waste across most barangays.
 - Mapulang Lupa records the highest overall waste volume and leads across multiple waste categories.
 
-### 6) Waste Composition Overtime
+### 6) Waste Composition Over Time
 ![Waste Composition Overtime](images/chart6.png)
 - The total volume of all waste types increases steadily from 2020 to 2030.
 - Recyclable and biodegradable waste consistently make up the largest share of the city's waste composition.
