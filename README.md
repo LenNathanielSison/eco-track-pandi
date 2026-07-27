@@ -35,8 +35,6 @@ Population data covering all 21 barangays of Pandi, Bulacan was also collected t
 - Legal/regulatory basis for waste categorization: Republic Act 9003 (Ecological Solid Waste Management Act of 2000)
 - National Solid Waste Management Commission (NSWMC) WACS implementation guidelines (2020)
 
-**Survey/Evaluation Data:** In addition to the waste dataset, a system usability evaluation was conducted with **87 participants** (53 students, 10 IT professionals, 2 faculty members, 21 Pandi residents, and 1 MENRO/LGU representative) using a 5-point Likert scale instrument based on ISO/IEC 25010 software quality standards.
-
 ---
 
 ## Methodology
