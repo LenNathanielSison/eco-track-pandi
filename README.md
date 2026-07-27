@@ -79,62 +79,62 @@ Model accuracy was validated using three standard performance metrics, comparing
 ---
 
 ## Insights
-1) Total Waste Volume by Barangay Over Time
+### 1) Total Waste Volume by Barangay Over Time
 ![Total Waste Volume by Barangay Over Time](images/chart1.png)
 - Waste volume is steadily increasing across all barangays from 2020 to 2030. 
 - A few barangays contribute significantly more waste than others.
 
-2) Population Forecast
+### 2) Population Forecast
 ![Population Forecast](images/chart2.png)
 - The city's population is projected to grow steadily from 2020 to 2030. 
 - The Linear Regression model provides reliable population forecasts with an R² value of 0.943
 
-3) Waste Forecast
+### 3) Waste Forecast
 ![Waste Forecast](images/chart3.png)
 - The city's total waste generation is projected to increase steadily from 2020 to 2030.
 - The ARIMA model produces accurate waste forecasts. With an R² value of 0.972.
   
-4) Top 3 Barangays with Highest Recyclable Waste
+### 4) Top 3 Barangays with Highest Recyclable Waste
 ![Top 3 Barangays with Highest Recyclable Waste](images/chart4.png)
 - Mapulang Lupa generates the highest amount of recyclable waste among all barangays. 
 - Bagong Barrio and Cacarong Bata rank second and third in recyclable waste generation.
 
-5) Waste Composition by Barangay
+### 5) Waste Composition by Barangay
 ![Waste Composition by Barangay](images/chart5.png)
 - Biodegradable and recyclable waste make up the largest portion of waste across most barangays.
 - Mapulang Lupa records the highest overall waste volume and leads across multiple waste categories.
 
-6) Waste Composition Overtime
+### 6) Waste Composition Overtime
 ![Waste Composition Overtime](images/chart6.png)
 - The total volume of all waste types increases steadily from 2020 to 2030.
 - Recyclable and biodegradable waste consistently make up the largest share of the city's waste composition.
 
-7) Top 3 Barangays by Waste Generation
+### 7) Top 3 Barangays by Waste Generation
 ![Top 3 Barangays by Waste Generation](images/chart7.png)
 - Mapulang Lupa generates significantly more waste than the other top barangays, making it the largest contributor to total waste generation.
 - Bagong Barrio and Cacarong Bata produce almost the same amount of waste, indicating similar waste generation levels.
 
-8) Top Contributing Waste Types
+### 8) Top Contributing Waste Types
 ![Top Contributing Waste Types](images/chart8.png)
 - Recyclable waste makes up the largest share of the total waste composition.
 - Biodegradable and other waste types also contribute significantly, while special waste accounts for only a small portion of the total.
 
-9) Net Waste by Barangay (2025)
+### 9) Net Waste by Barangay (2025)
 ![Net Waste by Barangay (2025)](images/chart9.png)
 - Mapulang Lupa has the highest net waste in 2025, significantly exceeding all other barangays and making it the largest contributor.
 - Most other barangays generate considerably lower and relatively similar net waste levels, indicating a more balanced distribution among them.
 
-10) Population Forecast Validation
+### 10) Population Forecast Validation
 ![Population Forecast Validation](images/populationvalidation.png)
 - The forecast closely follows the actual population trend, consistently remaining slightly higher while maintaining the same upward growth pattern from 2020 to 2030, indicating a good overall model fit.
 - Both actual and forecasted populations show steady year-on-year growth, suggesting continued population increase across all barangays with no significant fluctuations or declines.
 
-11) Waste Forecast Validation
+### 11) Waste Forecast Validation
 ![Waste Forecast Validation](images/wastevalidation.png)
 - The forecasted waste values closely align with the actual data across all waste categories, showing that the forecasting model accurately captures the increasing waste generation trend.
 - Recyclable waste remains the largest waste category, while all waste types exhibit a steady upward trend, indicating growing waste generation that will require improved waste management strategies.
 
-12) Summary of Accuracy Metrics
+### 12) Summary of Accuracy Metrics
 ![Summary of Accuracy Metrics](images/summarymetrics.png)
 - All forecasting models achieved an excellent fit, with high R² values (0.943–0.972).
 - The low RMSE and MAE values across all categories indicate minimal prediction errors.
